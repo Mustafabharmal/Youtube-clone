@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-   This will start the application on `http://localhost:3000`.
+   This will start the application on `http://localhost:5173/`.
 
 ## Folder Structure
 
